@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d21eb629-6887-4758-a4cc-35a766fafa2f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WZAnFcW9kNGdnnEgTe5tTadft1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/game" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/game" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/exp2_ql_sarsa" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/ql_exp1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run (1)">
+    <configuration name="ql_exp1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exp1_ql" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exp1_ql/ql_exp1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/game" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exp3_DQN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exp3_DQN/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exp2_ql_sarsa" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exp2_ql_sarsa/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ql_exp1" />
+      <item itemvalue="Python.run (1)" />
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.test (2)" />
+      <item itemvalue="Python.test (3)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run (1)" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.ql_exp1" />
+        <item itemvalue="Python.test (2)" />
+        <item itemvalue="Python.test (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d21eb629-6887-4758-a4cc-35a766fafa2f" name="Default Changelist" comment="" />
+      <created>1579346907403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579346907403</updated>
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1589863498776</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589863498776</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="415" y="74" width="1146" height="966" key="CommitChangelistDialog2" timestamp="1589863498581">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="415" y="74" width="1146" height="966" key="CommitChangelistDialog2/67.34.1853.1046@67.34.1853.1046" timestamp="1589863498581" />
+    <state x="723" y="257" width="530" height="600" key="FileChooserDialogImpl" timestamp="1589853641589">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="723" y="257" width="530" height="600" key="FileChooserDialogImpl/67.34.1853.1046@67.34.1853.1046" timestamp="1589853641589" />
+    <state x="736" y="447" key="Github.CreateGistDialog" timestamp="1589863735610">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="736" y="447" key="Github.CreateGistDialog/67.34.1853.1046@67.34.1853.1046" timestamp="1589863735610" />
+    <state width="1821" height="256" key="GridCell.Tab.0.bottom" timestamp="1589858105039">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1821" height="256" key="GridCell.Tab.0.bottom/67.34.1853.1046@67.34.1853.1046" timestamp="1589858105039" />
+    <state width="1821" height="256" key="GridCell.Tab.0.center" timestamp="1589858105036">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1821" height="256" key="GridCell.Tab.0.center/67.34.1853.1046@67.34.1853.1046" timestamp="1589858105036" />
+    <state width="1821" height="256" key="GridCell.Tab.0.left" timestamp="1589858105036">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1821" height="256" key="GridCell.Tab.0.left/67.34.1853.1046@67.34.1853.1046" timestamp="1589858105036" />
+    <state width="1821" height="256" key="GridCell.Tab.0.right" timestamp="1589858105039">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1821" height="256" key="GridCell.Tab.0.right/67.34.1853.1046@67.34.1853.1046" timestamp="1589858105039" />
+    <state width="1821" height="321" key="GridCell.Tab.1.bottom" timestamp="1589855088745">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1821" height="321" key="GridCell.Tab.1.bottom/67.34.1853.1046@67.34.1853.1046" timestamp="1589855088745" />
+    <state width="1821" height="321" key="GridCell.Tab.1.center" timestamp="1589855088741">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1821" height="321" key="GridCell.Tab.1.center/67.34.1853.1046@67.34.1853.1046" timestamp="1589855088741" />
+    <state width="1821" height="321" key="GridCell.Tab.1.left" timestamp="1589855088741">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1821" height="321" key="GridCell.Tab.1.left/67.34.1853.1046@67.34.1853.1046" timestamp="1589855088741" />
+    <state width="1821" height="321" key="GridCell.Tab.1.right" timestamp="1589855088743">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1821" height="321" key="GridCell.Tab.1.right/67.34.1853.1046@67.34.1853.1046" timestamp="1589855088743" />
+    <state x="349" y="105" width="1284" height="907" key="SettingsEditor" timestamp="1589863415020">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="349" y="105" width="1284" height="907" key="SettingsEditor/67.34.1853.1046@67.34.1853.1046" timestamp="1589863415020" />
+    <state x="488" y="228" width="1000" height="657" key="Vcs.Push.Dialog.v2" timestamp="1589863709166">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="488" y="228" width="1000" height="657" key="Vcs.Push.Dialog.v2/67.34.1853.1046@67.34.1853.1046" timestamp="1589863709166" />
+    <state x="568" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1589861466827">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="568" y="345" key="com.intellij.ide.util.TipDialog/67.34.1853.1046@67.34.1853.1046" timestamp="1589861466827" />
+    <state x="708" y="455" width="561" height="203" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589863436685">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="708" y="455" width="561" height="203" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.34.1853.1046@67.34.1853.1046" timestamp="1589863436684" />
+    <state x="572" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1589786472498">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="572" y="45" width="840" height="1034" key="search.everywhere.popup/67.34.1853.1046@67.34.1853.1046" timestamp="1589786472498" />
+  </component>
+</project>
